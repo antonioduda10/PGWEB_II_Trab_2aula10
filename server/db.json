@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "O208iyJPsABr",
+      "name": "Antônio Duda Oliveira da Silva",
+      "isAdmin": true,
+      "email": "antonioduda-sitio@hotmail.com",
+      "createdAt": "2025-10-26T18:07:12.896Z"
+    },
+    {
+      "id": "tyLqadPu-WJw",
+      "name": "Henry Felipe",
+      "email": "henry@hotmail.com",
+      "createdAt": "2025-10-26T18:10:15.570Z",
+      "isAdmin": false
+    },
+    {
+      "id": "fhpldEJRe_9a",
+      "name": "teste",
+      "email": "teste@teste",
+      "isAdmin": false,
+      "createdAt": "2025-10-26T21:30:51.769Z"
+    }
+  ],
+  "meals": [
+    {
+      "id": "yLbph9zgTFuw",
+      "userId": "O208iyJPsABr",
+      "name": "Hoje",
+      "description": "arroz, carne, salada",
+      "dateTime": "2025-10-26T19:09:00.000Z",
+      "inDiet": true,
+      "createdAt": "2025-10-26T19:09:55.347Z",
+      "updatedAt": "2025-10-26T19:09:55.347Z"
+    },
+    {
+      "id": "JcdGTrL4OcUc",
+      "userId": "O208iyJPsABr",
+      "name": "Amanhã",
+      "description": "arroz, carne, cebola",
+      "dateTime": "2025-10-27T22:11:00.000Z",
+      "inDiet": false,
+      "createdAt": "2025-10-26T19:11:57.787Z",
+      "updatedAt": "2025-10-26T19:12:43.290Z"
+    },
+    {
+      "id": "WPkct1p5g1uf",
+      "userId": "tyLqadPu-WJw",
+      "name": "Almoço",
+      "description": "arroz, feijão",
+      "dateTime": "2025-10-26T15:59:00.000Z",
+      "inDiet": true,
+      "createdAt": "2025-10-26T21:21:15.590Z",
+      "updatedAt": "2025-10-26T21:21:15.590Z"
+    }
+  ]
+}
