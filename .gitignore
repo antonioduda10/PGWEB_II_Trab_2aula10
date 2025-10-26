@@ -1,0 +1,32 @@
+node_modules/
+*.log
+dist/
+.vite/
+.DS_Store
+.vscode/
+.idea/
+
+# env and local config
+.env
+.env.*.local
+.env.local
+
+# Editor/IDE
+*.sublime-workspace
+*.sublime-project
+
+# OS
+desktop.ini
+
+# Build / cache
+.parcel-cache/
+.cache/
+/.pnp
+
+# npm/yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage
+coverage/
